@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Asena Docs',
+    title: 'Asena',
     tagline: 'Yeni nesil anket ve çekiliş botu.',
     url: 'https://wiki.asena.xyz',
     baseUrl: '/',
@@ -17,70 +17,24 @@ module.exports = {
             },
             items: [
                 {
-                    to: 'docs/',
-                    activeBasePath: 'docs',
-                    label: 'Docs',
+                    to: '/docs/commands/',
+                    label: 'Komutlar',
                     position: 'left',
                 },
                 {
-                    to: 'blog',
-                    label: 'Blog',
-                    position: 'left'
+                    to: '/docs/release-notes/',
+                    label: 'Güncelleme Notları',
+                    position: 'left',
                 },
                 {
                     href: 'https://github.com/anilmisirlioglu/Asena',
-                    label: 'GitHub | Asena',
+                    label: 'GitHub',
                     position: 'right',
                 }
             ],
         },
         footer: {
             style: 'dark',
-            links: [
-                {
-                    title: 'Docs',
-                    items: [
-                        {
-                            label: 'Style Guide',
-                            to: 'docs/',
-                        },
-                        {
-                            label: 'Second Doc',
-                            to: 'docs/doc2/',
-                        },
-                    ],
-                },
-                {
-                    title: 'Bağlantılar',
-                    items: [
-                        {
-                            label: 'Discord',
-                            href: 'https://dc.asena.xyz',
-                        },
-                        {
-                            label: 'Botu Davet Et',
-                            href: 'https://invite.asena.xyz',
-                        },
-                        {
-                            label: 'YouTube',
-                            href: 'https://www.youtube.com/channel/UCB_bh_HEJG-jp5b8RCRy9XA',
-                        },
-                    ],
-                },
-                {
-                    title: 'Daha Fazla',
-                    items: [
-                        {
-                            label: 'Hata Bildirin',
-                            href: 'https://issue.asena.xyz'
-                        },
-                        // {
-                        //     label: 'Blog',
-                        //     to: 'blog'
-                        // },
-                    ],
-                },
-            ],
             copyright: `Copyright © ${new Date().getFullYear()} Asena. Built with Docusaurus.`,
         },
     },
@@ -89,10 +43,11 @@ module.exports = {
             '@docusaurus/preset-classic',
             {
                 docs: {
-                    sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
-                    editUrl:
-                        'https://github.com/facebook/docusaurus/edit/master/website/',
+                    editUrl: 'https://github.com/asena-team/asena-wiki/edit/master/',
+                    showLastUpdateAuthor: true,
+                    showLastUpdateTime: true,
+                    routeBasePath: "/docs/commands",
+                    sidebarPath: require.resolve('./sidebars.js')
                 },
                 // blog: {
                 //     showReadingTime: true,
