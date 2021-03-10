@@ -44,8 +44,8 @@ module.exports = {
             {
                 docs: {
                     editUrl: 'https://github.com/asena-team/asena-wiki/edit/master/',
-                    showLastUpdateAuthor: true,
-                    showLastUpdateTime: true,
+                    showLastUpdateAuthor: false,
+                    showLastUpdateTime: false,
                     routeBasePath: "/docs/commands",
                     sidebarPath: require.resolve('./sidebars.js')
                 },

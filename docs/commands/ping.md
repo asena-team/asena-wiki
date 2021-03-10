@@ -1,8 +1,11 @@
 ---
 id: ping
-title: "> Ping"
-sidebar_label: Ping
+title: ping Komutu
+sidebar_label: ping
 slug: /ping
 ---
+## Açıklama
 
-# HEllo 
+## Examples
+
+## Preview (optional)

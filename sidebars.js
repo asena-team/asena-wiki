@@ -1,5 +1,6 @@
 module.exports = {
   docs: [
+    'commands/overview',
     {
       type: 'category',
       label: 'Bot Komutları',
