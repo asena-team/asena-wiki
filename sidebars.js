@@ -4,29 +4,34 @@ module.exports = {
     {
       type: 'category',
       label: 'Bot Komutları',
-      collapsed: true,
+      collapsed: false,
       items: [
-        'commands/ping',
-        'commands/botinfo'
+        'commands/bot/ping'
       ]
     },
     {
       type: 'category',
-      label: 'Sunucu Kişiselleştirme Komutları',
-      collapsed: true,
-      items: []
+      label: 'Kişiselleştirme Komutları',
+      collapsed: false,
+      items: [
+        'commands/server/locale'
+      ]
     },
     {
       type: 'category',
       label: 'Çekiliş Komutları',
-      collapsed: true,
-      items: []
+      collapsed: false,
+      items: [
+        'commands/survey/question'
+      ]
     },
     {
       type: 'category',
       label: 'Anket Komutları',
       collapsed: true,
-      items: []
+      items: [
+        'commands/giveaway/create'
+      ]
     }
   ]
 }

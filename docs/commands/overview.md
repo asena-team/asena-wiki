@@ -2,7 +2,7 @@
 id: overview
 title: Genel Bakış
 sidebar_label: Genel Bakış
-slug: /overview
+slug: /
 ---
 ## Komut Öneki
 
