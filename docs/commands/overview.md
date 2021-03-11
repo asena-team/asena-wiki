@@ -41,6 +41,20 @@ Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **
 
 ---
 
+## Yetki Seviyeleri
+
+Asena'da her komutun belli bir yetki seviyesi vardır. Bunlar genelde ya herkese açıktır, yada `ADMINISTRATOR` yetki seviyesinde olurlar.
+Kullanıcılarımızın komutları esnek yetki seviyelerinde kullanabilmeleri için çeşitli yöntemler vardır.
+
+1- `scperm` komutu. Bu komut ile diğer komutları sunucunuz içerisinde herkese açabilir veya kapatabilirsiniz. 
+[`scperm` komutu hakkında daha fazla bilgi için buraya tıklayın.](/docs/commands/server/scperm)
+
+2- `Asena` rolü. Komutu kullanmasını istediğiniz kişiye rengi, yetki seviyesi ve büyük - küçük harf fark etmeksizin `Asena` adında bir rol oluşturup 
+verirseniz, rolü verdiğiniz kişi botun tüm komutlarını yetki seviyesine bakılmaksızın kullanabilir. Yani bu role sahip kişiler bot üzerinde **yönetici** 
+yetkisine sahiptir diyebiliriz.
+
+---
+
 ## Zaman Formatı
 
 Çekilişlerin daha kolay ve esnek zaman diliminde kullanılması için Asena oldukça gelişmiş bir zaman formatı kullanır.
