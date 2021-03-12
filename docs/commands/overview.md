@@ -4,7 +4,7 @@ title: Genel Bakış
 sidebar_label: Genel Bakış
 slug: /
 ---
-## Komut Öneki
+## Komut Öneki {#prefix}
 
 Asena 'nın varsayılan komut öneki *(prefix)* `!a` 'dır. 
 Eğer komut ön adınızı değiştirdiyseniz, değiştirdiğiniz komut önekinizi kullanmanız gerekir.
@@ -15,9 +15,9 @@ Eğer komut önekinizi unuttuysanız botun görebileceği herhangi bir kanala `>
 
 ---
 
-## Parametreler
+## Parametreler {#parameters}
 
-### Belirteçler
+### Belirteçler {#markers}
 
 `[]`: Köşeli parantezler, o parametrenin girilmesinin zorunlu olduğunu temsil eder.
 
@@ -29,7 +29,7 @@ Eğer komut önekinizi unuttuysanız botun görebileceği herhangi bir kanala `>
 Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **asla** `([], <>)` gibi parametre belirteçleri **eklemeyin**.
 :::
 
-### Örnek Çözümleme:
+### Örnek Çözümleme: {#resolve}
 
 ```md
 !asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>
@@ -41,7 +41,7 @@ Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **
 
 ---
 
-## Yetki Seviyeleri
+## Yetki Seviyeleri {#authorization}
 
 Asena'da her komutun belli bir yetki seviyesi vardır. Bunlar genelde ya herkese açıktır, yada `ADMINISTRATOR` yetki seviyesinde olurlar.
 Kullanıcılarımızın komutları esnek yetki seviyelerinde kullanabilmeleri için çeşitli yöntemler vardır.
@@ -55,11 +55,11 @@ yetkisine sahiptir diyebiliriz.
 
 ---
 
-## Zaman Formatı
+## Zaman Formatı {#time-format}
 
 Çekilişlerin daha kolay ve esnek zaman diliminde kullanılması için Asena oldukça gelişmiş bir zaman formatı kullanır.
 
-### Zaman Birimleri
+### Zaman Birimleri {#time-units}
 
 Asena tarafından desteklenen 4 farklı zaman birimi vardır. Bunlar aşağıda listelenmiştir.
 
@@ -68,7 +68,7 @@ Asena tarafından desteklenen 4 farklı zaman birimi vardır. Bunlar aşağıda 
 - `h` = Saat
 - `d` = Gün
 
-### Örnek Kullanımlar
+### Örnek Kullanımlar {#time-usages}
 
 | Format  | Elde Edilen Süre |
 | ------- | ---------------- |
