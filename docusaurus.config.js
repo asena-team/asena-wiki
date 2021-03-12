@@ -9,6 +9,11 @@ module.exports = {
     organizationName: 'asena-team', // Usually your GitHub org/user name.
     projectName: 'asena-wiki', // Usually your repo name.
     themeConfig: {
+        colorMode: {
+            defaultMode: 'dark',
+            disableSwitch: false,
+            respectPrefersColorScheme: false
+        },
         navbar: {
             title: 'Asena',
             logo: {
