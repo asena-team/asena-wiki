@@ -5,7 +5,7 @@ module.exports = {
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'img/favicon.svg',
+    favicon: 'img/logo.png',
     organizationName: 'asena-team', // Usually your GitHub org/user name.
     projectName: 'asena-wiki', // Usually your repo name.
     themeConfig: {
@@ -22,7 +22,7 @@ module.exports = {
                     position: 'left',
                 },
                 {
-                    to: '/docs/release-notes/',
+                    to: '/docs/releases/',
                     label: 'Güncelleme Notları',
                     position: 'left',
                 },
@@ -43,11 +43,14 @@ module.exports = {
             '@docusaurus/preset-classic',
             {
                 docs: {
-                    editUrl: 'https://github.com/asena-team/asena-wiki/edit/master/',
                     showLastUpdateAuthor: false,
                     showLastUpdateTime: false,
-                    routeBasePath: "/docs/commands",
-                    sidebarPath: require.resolve('./sidebars.js')
+                    path: 'docs/commands',
+                    routeBasePath: '/docs/commands',
+                    sidebarPath: require.resolve('./docs/commands/sidebars.js'),
+                    editUrl: ({locale, version, versionDocsDirPath, docPath, permalink}) => {
+                        return `https://github.com/asena-team/asena-wiki/edit/master/docs/commands/${docPath}`
+                    }
                 },
                 // blog: {
                 //     showReadingTime: true,
@@ -61,4 +64,18 @@ module.exports = {
             },
         ],
     ],
-};
+    plugins: [
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+                id: 'releases',
+                path: 'docs/releases',
+                routeBasePath: '/docs/releases',
+                sidebarPath: require.resolve('./docs/releases/sidebars.js'),
+                editUrl: ({locale, version, versionDocsDirPath, docPath, permalink}) => {
+                    return `https://github.com/asena-team/asena-wiki/edit/master/docs/releases/${docPath}`
+                }
+            }
+        ]
+    ]
+}
