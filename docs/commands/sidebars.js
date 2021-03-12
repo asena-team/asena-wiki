@@ -14,7 +14,8 @@ module.exports = {
             label: 'Kişiselleştirme Komutları',
             collapsed: false,
             items: [
-                'server/locale'
+                'server/locale',
+                'server/scperm'
             ]
         },
         {
