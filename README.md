@@ -1,16 +1,19 @@
-# Website
+# Asena Wiki
+[![Netlify Status](https://api.netlify.com/api/v1/badges/da21a850-a44d-43d3-8d5b-9fbba2c06eda/deploy-status)](https://app.netlify.com/sites/asena-wiki/deploys)
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+The docs of [Asena](https://github.com/anilmisirlioglu/Asena), a discord community bot. Thanks to [docusaurus](https://docusaurus.io/).
+
+## Usage
 
 ## Installation
 
-```console
+```sh
 yarn install
 ```
 
 ## Local Development
 
-```console
+```sh
 yarn start
 ```
 
@@ -18,7 +21,7 @@ This command starts a local development server and open up a browser window. Mos
 
 ## Build
 
-```console
+```sh
 yarn build
 ```
 
@@ -26,7 +29,7 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-```console
+```sh
 GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
