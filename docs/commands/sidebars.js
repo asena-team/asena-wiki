@@ -6,7 +6,10 @@ module.exports = {
             label: 'Bot Komutları',
             collapsed: false,
             items: [
-                'bot/ping'
+                'bot/ping',
+                'bot/botinfo',
+                'bot/help',
+                'bot/invite'
             ]
         },
         {
@@ -14,7 +17,7 @@ module.exports = {
             label: 'Kişiselleştirme Komutları',
             collapsed: false,
             items: [
-                'server/locale',
+                'server/locale'
                 'server/scperm',
                 'server/setprefix'
             ]
