@@ -8,6 +8,15 @@ module.exports = {
     favicon: 'img/logo.png',
     organizationName: 'asena-team',
     projectName: 'asena-wiki',
+    i18n: {
+        defaultLocale: 'tr',
+        locales: ['tr'],
+        localeConfigs: {
+            tr: {
+                label: 'Türkçe'
+            }
+        }
+    },
     themeConfig: {
         colorMode: {
             defaultMode: 'dark',
@@ -30,6 +39,10 @@ module.exports = {
                     to: '/docs/releases/',
                     label: 'Güncelleme Notları',
                     position: 'left'
+                },
+                {
+                    type: 'localeDropdown',
+                    position: 'right',
                 },
                 {
                     href: 'https://github.com/anilmisirlioglu/Asena',
