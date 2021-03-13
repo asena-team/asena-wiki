@@ -6,7 +6,10 @@ module.exports = {
             label: 'Çekiliş Komutları',
             collapsed: false,
             items: [
-                'giveaway/create'
+                'giveaway/create',
+                'giveaway/reroll',
+                'giveaway/cancel',
+                'giveaway/end'
             ]
         },
         {
