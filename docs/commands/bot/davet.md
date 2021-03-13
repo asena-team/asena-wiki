@@ -4,7 +4,7 @@ title: davet Komutu
 sidebar_label: davet
 slug: /davet
 ---
-Botun davet linkini, destek sunucusunu ve web sitesini tek bir mesaj içerisinde verir.
+Botun davet bağlantısını, destek sunucusunu ve web sitesini tek bir mesaj içerisinde sohbete gönderir.
 
 ---
 
