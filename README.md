@@ -1,5 +1,4 @@
-# Asena Wiki
-[![Netlify Status](https://api.netlify.com/api/v1/badges/da21a850-a44d-43d3-8d5b-9fbba2c06eda/deploy-status)](https://app.netlify.com/sites/asena-wiki/deploys)
+# Asena Wiki [![Netlify Status](https://api.netlify.com/api/v1/badges/da21a850-a44d-43d3-8d5b-9fbba2c06eda/deploy-status)](https://app.netlify.com/sites/asena-wiki/deploys)
 
 The docs of [Asena](https://github.com/anilmisirlioglu/Asena), a discord community bot. Thanks to [docusaurus](https://docusaurus.io/).
 
