@@ -34,7 +34,8 @@ module.exports = {
 			label: 'Anket Komutları',
 			collapsed: false,
 			items: [
-				'giveaway/create'
+				'giveaway/create',
+				"giveaway/raffles"
 			],
 		},
 	],
