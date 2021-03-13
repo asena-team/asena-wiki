@@ -4,11 +4,16 @@ title: scperm Komutu
 sidebar_label: scperm
 slug: /scperm
 ---
-Botun Sunucu İçerisindeki Komut İzinlerini Ayarlar.
+Botun sunucu içerisindeki komut izinlerini düzenler.
+
+:::important BİLGİLENDİRME 
+Kullanımı herkese açık olan komutları ve bu komutun kendisinin izinlerini güvenlik sebebiyle düzenleyemez ve değiştiremezsiniz.
+Geriye kalam tüm komutların izinlerini düzenleyip değiştirmekte özgürsünüz.
+:::
 
 ---
 
-## Takma Adları (Alias)
+## Takma Adları
 
 - setcommmandpermission
 - setcommandperm
@@ -17,9 +22,11 @@ Botun Sunucu İçerisindeki Komut İzinlerini Ayarlar.
 
 ## Kullanımı
 
-`!ascperm [everyone | admin | komut]`
+`!ascperm [everyone | admin] [komut]`
 
-- **everyone & admin:** Komuta Vereceğiniz İzin Seviyesi. *[Zorunlu]*
-- **komut:** İzin Seviyesini Düzenlemek İstediğiniz Komutun Adı. *[Zorunlu]*
+- **everyone & admin:** Komuta vereceğiniz izin seviyesi. *[Zorunlu]*
+- **komut:** İzin seviyesini düzenlemek istediğiniz komutun adı. *[Zorunlu]*
 
-
+:::note NOT
+`admin` komutu sadece adminlerin kullamına, `everyone` ise komutu herkesin kullanımına açar.
+:::
