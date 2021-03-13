@@ -17,8 +17,9 @@ module.exports = {
             label: 'Kişiselleştirme Komutları',
             collapsed: false,
             items: [
-                'server/locale',
-                'server/scperm'
+                'server/locale'
+                'server/scperm',
+                'server/setprefix'
             ]
         },
         {
@@ -26,7 +27,8 @@ module.exports = {
             label: 'Çekiliş Komutları',
             collapsed: false,
             items: [
-                'survey/question'
+                'survey/question',
+                'survey/survey'
             ]
         },
         {
