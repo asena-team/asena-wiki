@@ -6,10 +6,7 @@ module.exports = {
             label: 'Bot Komutları',
             collapsed: false,
             items: [
-                'bot/ping',
-                'bot/botinfo',
-                'bot/help',
-                'bot/invite'
+                'bot/ping'
             ]
         },
         {
@@ -18,7 +15,8 @@ module.exports = {
             collapsed: false,
             items: [
                 'server/locale',
-                'server/scperm'
+                'server/scperm',
+                'server/setprefix'
             ]
         },
         {
@@ -26,7 +24,8 @@ module.exports = {
             label: 'Çekiliş Komutları',
             collapsed: false,
             items: [
-                'survey/question'
+                'survey/question',
+                'survey/survey'
             ]
         },
         {
