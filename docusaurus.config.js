@@ -6,8 +6,8 @@ module.exports = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/logo.png',
-    organizationName: 'asena-team', // Usually your GitHub org/user name.
-    projectName: 'asena-wiki', // Usually your repo name.
+    organizationName: 'asena-team',
+    projectName: 'asena-wiki',
     themeConfig: {
         colorMode: {
             defaultMode: 'dark',
@@ -18,29 +18,29 @@ module.exports = {
             title: 'Asena',
             logo: {
                 alt: 'Asena Logo',
-                src: 'img/logo.png',
+                src: 'img/logo.png'
             },
             items: [
                 {
                     to: '/docs/commands/',
                     label: 'Komutlar',
-                    position: 'left',
+                    position: 'left'
                 },
                 {
                     to: '/docs/releases/',
                     label: 'Güncelleme Notları',
-                    position: 'left',
+                    position: 'left'
                 },
                 {
                     href: 'https://github.com/anilmisirlioglu/Asena',
                     label: 'GitHub',
-                    position: 'right',
+                    position: 'right'
                 }
             ],
         },
         footer: {
             style: 'dark',
-            copyright: `Copyright © ${new Date().getFullYear()} Asena. Built with Docusaurus.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Asena. Built with Docusaurus.`
         },
     },
     presets: [
@@ -57,17 +57,11 @@ module.exports = {
                         return `https://github.com/asena-team/asena-wiki/edit/master/docs/commands/${docPath}`
                     }
                 },
-                // blog: {
-                //     showReadingTime: true,
-                //     // Please change this to your repo.
-                //     editUrl:
-                //         'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-                // },
                 theme: {
-                    customCss: require.resolve('./src/css/custom.css'),
-                },
-            },
-        ],
+                    customCss: require.resolve('./src/css/custom.css')
+                }
+            }
+        ]
     ],
     plugins: [
         [
