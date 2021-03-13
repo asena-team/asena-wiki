@@ -4,11 +4,11 @@ title: setprefix Komutu
 sidebar_label: setprefix
 slug: /setprefix
 ---
-Botun Sunucu İçerisindeki prefix 'ini değiştirir
+Botun sunucu içerisindeki komut önekini (prefix) değiştirir.
 
 ---
 
-## Takma Adları (Alias)
+## Takma Adları
 
 - prefixdeğiştir
 - prefix
@@ -19,9 +19,9 @@ Botun Sunucu İçerisindeki prefix 'ini değiştirir
 
 `!asetprefix [prefix]`
 
-- **prefix:** Sunucunuzda Kullanmak İstediğiniz Komut ön Adı. *[Zorunlu]*
+- **prefix:** Sunucunuzda kullanmak istediğiniz maksimum 5 karakter uzunluğundaki yeni komut öneki. *[Zorunlu]*
 
-Asena 'nın varsayılan komut öneki *(prefix)* `!a` 'dır. 
+Asena 'nın varsayılan komut öneki *(prefix)* `!a` 'dır.
 Eğer komut ön adınızı değiştirdiyseniz, değiştirdiğiniz komut önekinizi kullanmanız gerekir.
 
 :::tip İPUCU
