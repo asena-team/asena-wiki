@@ -3,28 +3,15 @@ module.exports = {
         'overview',
         {
             type: 'category',
-            label: 'Bot Komutları',
-            collapsed: false,
-            items: [
-                'bot/ping',
-                'bot/botinfo',
-                'bot/help',
-                'bot/invite'
-            ]
-        },
-        {
-            type: 'category',
-            label: 'Kişiselleştirme Komutları',
-            collapsed: false,
-            items: [
-                'server/locale'
-                'server/scperm',
-                'server/setprefix'
-            ]
-        },
-        {
-            type: 'category',
             label: 'Çekiliş Komutları',
+            collapsed: false,
+            items: [
+                'giveaway/create'
+            ]
+        },
+        {
+            type: 'category',
+            label: 'Anket Komutları',
             collapsed: false,
             items: [
                 'survey/question',
@@ -33,10 +20,23 @@ module.exports = {
         },
         {
             type: 'category',
-            label: 'Anket Komutları',
+            label: 'Kişiselleştirme Komutları',
             collapsed: false,
             items: [
-                'giveaway/create'
+                'server/locale',
+                'server/scperm',
+                'server/setprefix'
+            ]
+        },
+        {
+            type: 'category',
+            label: 'Bot Komutları',
+            collapsed: false,
+            items: [
+                'bot/ping',
+                'bot/botinfo',
+                'bot/help',
+                'bot/invite'
             ]
         }
     ]
