@@ -10,7 +10,9 @@ module.exports = {
                 'giveaway/reroll',
                 'giveaway/cancel',
                 'giveaway/end',
-                'giveaway/raffles'
+                'giveaway/raffles',
+                'giveaway/setup',
+                'giveaway/soundaway'
             ]
         },
         {
