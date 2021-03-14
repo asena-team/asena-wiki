@@ -1,6 +1,6 @@
 module.exports = {
     title: 'Asena',
-    tagline: 'Yeni nesil anket ve çekiliş botu.',
+    tagline: 'Yeni nesil hızlı ve güvenilir çekiliş ve anket botu.',
     url: 'https://wiki.asena.xyz',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -53,8 +53,49 @@ module.exports = {
         },
         footer: {
             style: 'dark',
-            copyright: `Copyright © ${new Date().getFullYear()} Asena. Built with Docusaurus.`
-        },
+            copyright: `Copyright © ${new Date().getFullYear()} Asena.`,
+            links: [
+                {
+                    title: 'Dökümanlar',
+                    items: [
+                        {
+                            label: 'Komut Yardımı',
+                            href:  '/docs/commands'
+                        },
+                        {
+                            label: 'Güncelleme Notları',
+                            to: '/docs/releases'
+                        }
+                    ]
+                },
+                {
+                    title: 'Topluluk',
+                    items: [
+                        {
+                            label: 'Discord',
+                            href: 'https://dc.asena.xyz'
+                        },
+                        {
+                            label: 'YouTube',
+                            href: 'https://www.youtube.com/channel/UCB_bh_HEJG-jp5b8RCRy9XA'
+                        }
+                    ]
+                },
+                {
+                    title: 'Daha Fazla',
+                    items: [
+                        {
+                            label: 'Davet',
+                            href: 'https://invite.asena.xyz',
+                        },
+                        {
+                            label: 'GitHub',
+                            href: 'https://github.com/anilmisirlioglu/Asena',
+                        }
+                    ]
+                }
+            ]
+        }
     },
     presets: [
         [
