@@ -45,15 +45,15 @@ module.exports = {
                     position: 'left'
                 },
                 {
-                    type: 'localeDropdown',
-                    position: 'right',
-                },
-                {
                     href: 'https://github.com/anilmisirlioglu/Asena',
                     label: 'GitHub',
                     position: 'right'
+                },
+                {
+                    type: 'localeDropdown',
+                    position: 'right'
                 }
-            ],
+            ]
         },
         footer: {
             style: 'dark',
@@ -64,7 +64,7 @@ module.exports = {
                     items: [
                         {
                             label: 'Komut Yardımı',
-                            href:  '/docs/commands'
+                            href: '/docs/commands'
                         },
                         {
                             label: 'Güncelleme Notları',
@@ -91,6 +91,10 @@ module.exports = {
                         {
                             label: 'Davet',
                             href: 'https://invite.asena.xyz'
+                        },
+                        {
+                            label: 'Oy Ver',
+                            href: 'https://top.gg/bot/716259870910840832/vote'
                         },
                         {
                             label: 'GitHub',

@@ -1,22 +1,22 @@
-import React from 'react';
-import clsx from 'clsx';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './styles.module.css';
-import FooterLink from './components/FooterLink';
+import React from 'react'
+import clsx from 'clsx'
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
+import styles from './styles.module.css'
+import FooterLink from './components/FooterLink'
 
 const Footer = () => {
-    const { siteConfig } = useDocusaurusContext();
-    const { copyright, links = [] } = siteConfig.themeConfig.footer;
-    const hasFooter = !!siteConfig.themeConfig.footer;
+    const {siteConfig} = useDocusaurusContext()
+    const {copyright, links = []} = siteConfig.themeConfig.footer
+    const hasFooter = !!siteConfig.themeConfig.footer
 
     if(!hasFooter){
-        return null;
+        return null
     }
 
     return (
         <footer className={clsx('footer', styles.Container)}>
             <div className={styles.InnerContainer}>
-                <div className={styles.ContentContainer}>
+                <div className={clsx('container', styles.ContentContainer)}>
                     {/*Footer Left */}
                     <div className={styles.FooterLeft}>
                         <div className={styles.BrandContainer}>
@@ -53,13 +53,17 @@ const Footer = () => {
                 </div>
                 <div className={styles.BottomContainer}>
                     <div
-                        className={styles.CopyrightText}
+                        className={clsx('container', styles.ContentContainer)}
+                        style={{
+                            paddingBottom: 'unset',
+                            paddingTop: 'unset'
+                        }}
                         dangerouslySetInnerHTML={{__html: copyright}}
                     />
                 </div>
             </div>
         </footer>
-    );
-};
+    )
+}
 
-export default Footer;
+export default Footer
