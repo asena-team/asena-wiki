@@ -18,6 +18,10 @@ module.exports = {
         }
     },
     themeConfig: {
+        algolia: {
+            apiKey: '25723dbc14de1a0bbeeaac35acfefabf',
+            indexName: 'asena'
+        },
         colorMode: {
             defaultMode: 'dark',
             disableSwitch: false,
@@ -86,11 +90,11 @@ module.exports = {
                     items: [
                         {
                             label: 'Davet',
-                            href: 'https://invite.asena.xyz',
+                            href: 'https://invite.asena.xyz'
                         },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/anilmisirlioglu/Asena',
+                            href: 'https://github.com/anilmisirlioglu/Asena'
                         }
                     ]
                 }
