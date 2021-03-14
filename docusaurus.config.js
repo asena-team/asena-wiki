@@ -18,6 +18,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        image: 'img/logo.png',
         algolia: {
             apiKey: '25723dbc14de1a0bbeeaac35acfefabf',
             indexName: 'asena'
