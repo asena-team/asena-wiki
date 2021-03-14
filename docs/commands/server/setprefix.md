@@ -8,14 +8,14 @@ Botun sunucu içerisindeki komut önekini (prefix) değiştirir.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - prefixdeğiştir
 - prefix
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!asetprefix [prefix]`
 

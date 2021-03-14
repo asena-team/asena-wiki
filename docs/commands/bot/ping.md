@@ -8,6 +8,6 @@ Botun ağ gecikme sürelerini gösterir.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - ms

@@ -8,6 +8,6 @@ Bot hakkında teknik bilgi verir. Örneğin, `!abotinfo basic` bot hakkında tem
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - teknikbilgi

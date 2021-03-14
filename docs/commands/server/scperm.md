@@ -13,14 +13,14 @@ Geriye kalam tüm komutların izinlerini düzenleyip değiştirmekte özgürsün
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - setcommmandpermission
 - setcommandperm
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!ascperm [everyone | admin] [komut]`
 

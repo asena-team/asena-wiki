@@ -15,6 +15,6 @@ edebilirsiniz.
 :::
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - sihirbaz

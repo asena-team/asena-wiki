@@ -8,7 +8,7 @@ Devam eden bir çekilişi erken bitirir.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - hemenbitir
 - finish
@@ -17,7 +17,7 @@ Devam eden bir çekilişi erken bitirir.
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!aend <mesaj-id>`
 

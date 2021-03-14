@@ -8,7 +8,7 @@ Sunucudaki aktif çekilişleri listeler.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - çekilişler
 - aktifçekilişler

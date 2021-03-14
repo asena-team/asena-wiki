@@ -8,7 +8,7 @@ Yeni bir çekiliş oluşturur.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - createraffle
 - cekilisbaslat
@@ -16,7 +16,7 @@ Yeni bir çekiliş oluşturur.
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!acreate [kazanan sayısı] [süre] [ödül]`
 

@@ -8,13 +8,13 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - tekrarcek
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!areroll <tekrar çekilecek kişi sayısı> <mesaj-id>`
 

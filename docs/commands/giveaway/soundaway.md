@@ -8,7 +8,16 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 
 ---
 
-## Kullanımı
+## Takma Adları {#alias}
+
+- avoice
+- avoiceaway
+- asoundstart
+- asesçekiliş
+
+---
+
+## Kullanımı {#usage}
 
 `!asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>`
 

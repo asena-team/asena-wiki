@@ -9,14 +9,14 @@ listesini özel mesajlardan size gönderir. Eğer özel mesajlarınız kapalıys
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - yardim
 - yardım
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 `!ahelp [komut-adı]`
 
 - **komut adı:** Detaylı bilgi almak istediğiniz komutun adı. *[İsteğe Bağlı]*

@@ -8,7 +8,7 @@ Devam eden bir çekilişi iptal eder.
 
 ---
 
-## Takma Adları
+## Takma Adları {#alias}
 
 - çekilişiptalet
 - çekilişiiptalet
@@ -18,7 +18,7 @@ Devam eden bir çekilişi iptal eder.
 
 ---
 
-## Kullanımı
+## Kullanımı {#usage}
 
 `!acancel <mesaj-id>`
 
