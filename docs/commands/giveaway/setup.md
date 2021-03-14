@@ -4,23 +4,17 @@ title: setup Komutu
 sidebar_label: setup
 slug: /setup
 ---
-Çekiliş kurulum sihirbazını başlatır.
+Bulunduğunuz kanalda çekiliş kurulum sihirbazını başlatır.
 
+:::important DİKKAT
+* Eğer kurulum sihirbazını iptal etmek isterseniz sohbete `iptal`, `cancel` veya `exit` yazarak kurulum sihirbazını iptal 
+edebilirsiniz.
+* Bir çok kişi aynı anda kurulum sihirbazı başlatabilir ve sihirbazlar birbirinden bağımsız olarak çalışır.
+* Başkası sizin yarattığınız kurulum sihirbazınıza müdahale edemez, sadece sizin yazdıklarınızı algılar ve işler. 
+* Eğer kurulum sihirbazını başlatıp tamamlamazsanız, 5 dakika sonra kendini otomatik olarak iptal eder.
+:::
 ---
 
 ## Takma Adları
 
 - sihirbaz
-
----
-
-## Bilgilendirme
-
-**Ben bu setup'ı iptal etmek istiyorsam nasıl iptal ederim, nasıl setup'dan çıkarım?**    
-Eğer sihirbazdan çıkmak isterseniz lütfen sohbete `iptal`, `cancel` veya `exit` yazarak kurulumu iptal edebilirsiniz
-
-**Başkası benim setup'ıma karışabilir mi?**
-Hayır, bir başkası sizin oluşturduğunuz setup'ınıza karışamaz
-
-**Eğer setup'ı başlatıp sonra tamamlamazsam nolur? Bunun bir timeout'u var mı?**
-Evet, 5 dakika içerisinde setup kurulumu için gerekli talimatları uygulamazsanız otomatik setup Kurulumu iptal edilir.
