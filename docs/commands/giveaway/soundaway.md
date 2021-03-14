@@ -4,7 +4,7 @@ title: soundaway Komutu
 sidebar_label: soundaway
 slug: /soundaway
 ---
-Ses kanalında yeni bir çekiliş oluşturur.
+Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekiliş oluşturur.
 
 ---
 
@@ -13,10 +13,10 @@ Ses kanalında yeni bir çekiliş oluşturur.
 `!asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>`
 
 - **kazanan sayısı:** Çekilişi kazanacak kişi sayısı. *[Zorunlu]*
-* <@kullanıcı | ses-kanal-id | boş>
-  - **kullanıcı**: Etiketlediğiniz kişi eğer bir ses kanalındaysa o ses kanalındaki kullanıcılardan çeker *[İsteğe Bağlı]*
-  - **ses-kanal-id:** Çekiliş yapmak istediğiniz sesli kanalın ID'si *[İsteğe Bağlı]*
-  - **boş:** Eğer bu kısmı boş burakırsanız çekilişi sunucunuzdaki tüm sesli kanallardan çeker *[İsteğe Bağlı]*
+- <@kullanıcı | ses-kanal-id | boş>
+  * **kullanıcı**: Etiketlediğiniz kişi eğer bir ses kanalındaysa o ses kanalındaki kullanıcılardan çeker *[İsteğe Bağlı]*
+  * **ses-kanal-id:** Çekiliş yapmak istediğiniz sesli kanalın ID'si *[İsteğe Bağlı]*
+  * **boş:** Eğer bu kısmı boş burakırsanız çekilişi sunucunuzdaki tüm sesli kanallardan çeker *[İsteğe Bağlı]*
 - **başlık:** Çekilişde verilecek ödül. *[İsteğe Bağlı]*
 
 :::tip İPUCU
