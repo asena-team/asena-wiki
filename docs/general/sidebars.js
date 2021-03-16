@@ -5,7 +5,8 @@ module.exports = {
             label: 'Başlarken',
             collapsed: true,
             items: [
-                'getting-started/start'
+                'getting-started/start',
+                'getting-started/adding-asena'
             ]
         },
         'time-updater',
