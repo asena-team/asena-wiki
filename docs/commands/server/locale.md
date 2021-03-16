@@ -14,7 +14,7 @@ bağlantıyı takip ederek projeye katkıda bulunabilirsiniz.
 
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - lang
 - language
@@ -22,7 +22,7 @@ bağlantıyı takip ederek projeye katkıda bulunabilirsiniz.
 
 ---
 
-## Kullanımı {#usage}
+## ❓ Kullanımı {#usage}
 
 `!alocale [list | set | reset] <args>`
 

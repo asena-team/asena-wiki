@@ -15,6 +15,6 @@ edebilirsiniz.
 :::
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - sihirbaz

@@ -8,14 +8,14 @@ Sunucu içerisinde şıklı yeni bir soru yaratır.
 
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - sorusor
 - soru
 
 ---
 
-## Kullanımı {#usage}
+## ❓ Kullanımı {#usage}
 
 `!aquestion {soru} ...[şıklar]`
 

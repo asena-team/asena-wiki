@@ -8,7 +8,7 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - avoice
 - avoiceaway
@@ -17,7 +17,7 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 
 ---
 
-## Kullanımı {#usage}
+## ❓ Kullanımı {#usage}
 
 `!asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>`
 
@@ -29,5 +29,8 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 - **başlık:** Çekilişde verilecek ödül. *[İsteğe Bağlı]*
 
 :::tip İPUCU
-**Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele olur. [Bunlara ulaşmanın adımları burada.](https://support.discord.com/hc/tr/articles/206346498-Kullan%C4%B1c%C4%B1-Sunucu-Mesaj-ID-sini-Nerden-Bulurum-)
+**Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
+noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden
+kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele
+olur. [Bunlara ulaşmanın adımları burada.](https://support.discord.com/hc/tr/articles/206346498-Kullan%C4%B1c%C4%B1-Sunucu-Mesaj-ID-sini-Nerden-Bulurum-)
 :::

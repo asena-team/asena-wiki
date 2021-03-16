@@ -8,7 +8,7 @@ Botun davet bağlantısını, destek sunucusunu ve web sitesini tek bir mesaj i�
 
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - invite
 - party

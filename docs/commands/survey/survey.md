@@ -8,7 +8,7 @@ Sunucu içerisinde iki seçenekli *(evet/hayır)* oylama anketi oluşturur.
 
 ---
 
-## Takma Adları {#alias}
+## 🏷️ Takma Adları {#alias}
 
 - anket
 - anketoluştur
@@ -18,7 +18,7 @@ Sunucu içerisinde iki seçenekli *(evet/hayır)* oylama anketi oluşturur.
 
 ---
 
-## Kullanımı {#usage}
+## ❓ Kullanımı {#usage}
 
 `!asurvey <süre> [oylama metni]`
 
