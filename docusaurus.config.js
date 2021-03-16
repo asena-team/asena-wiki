@@ -40,6 +40,11 @@ module.exports = {
                     position: 'left'
                 },
                 {
+                    to: '/docs/general/',
+                    label: 'Genel',
+                    position: 'left'
+                },
+                {
                     to: '/docs/releases/',
                     label: 'Güncelleme Notları',
                     position: 'left'
@@ -135,6 +140,18 @@ module.exports = {
                 sidebarPath: require.resolve('./docs/releases/sidebars.js'),
                 editUrl: ({locale, version, versionDocsDirPath, docPath, permalink}) => {
                     return `https://github.com/asena-team/asena-wiki/edit/master/docs/releases/${docPath}`
+                }
+            }
+        ],
+        [
+            '@docusaurus/plugin-content-docs',
+            {
+                id: 'general',
+                path: 'docs/general',
+                routeBasePath: '/docs/general',
+                sidebarPath: require.resolve('./docs/general/sidebars.js'),
+                editUrl: ({locale, version, versionDocsDirPath, docPath, permalink}) => {
+                    return `https://github.com/asena-team/asena-wiki/edit/master/docs/general/${docPath}`
                 }
             }
         ]
