@@ -1,6 +1,13 @@
 module.exports = {
     docs: [
-        'general',
+        {
+            type: 'category',
+            label: 'Başlarken',
+            collapsed: true,
+            items: [
+                'getting-started/start'
+            ]
+        },
         'time-updater',
         'faq',
         {
