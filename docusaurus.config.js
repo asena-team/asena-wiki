@@ -19,7 +19,7 @@ module.exports = {
     },
     themeConfig: {
         algolia: {
-            apiKey: '25723dbc14de1a0bbeeaac35acfefabf',
+            apiKey: 'b4609533230e8e0d30cbcc4a8e4bb786',
             indexName: 'asena'
         },
         colorMode: {
