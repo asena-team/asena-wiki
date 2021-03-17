@@ -72,6 +72,10 @@ module.exports = {
                             href: '/docs/commands'
                         },
                         {
+                            label: 'Genel Yardım',
+                            href: '/docs/general'
+                        },
+                        {
                             label: 'Güncelleme Notları',
                             to: '/docs/releases'
                         }

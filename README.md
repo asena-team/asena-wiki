@@ -2,8 +2,6 @@
 
 The docs of [Asena](https://github.com/anilmisirlioglu/Asena), a discord community bot. Thanks to [docusaurus](https://docusaurus.io/).
 
-## Usage
-
 ## Installation
 
 ```sh
