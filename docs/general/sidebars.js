@@ -16,7 +16,7 @@ module.exports = {
             items: [
                 'basics/features',
                 'basics/permissions',
-                'basics/time-updater'
+                'basics/giveaway'
             ]
         },
         'faq',
