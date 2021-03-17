@@ -9,7 +9,16 @@ module.exports = {
                 'getting-started/adding-asena'
             ]
         },
-        'time-updater',
+        {
+            type: 'category',
+            label: 'Asena Temelleri',
+            collapsed: true,
+            items: [
+                'basics/features',
+                'basics/permissions',
+                'basics/time-updater'
+            ]
+        },
         'faq',
         {
             type: 'category',

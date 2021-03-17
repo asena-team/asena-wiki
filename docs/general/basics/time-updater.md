@@ -1,7 +1,7 @@
 ---
 id: time-updater
-title: Zaman Güncellenme
-sidebar_label: Zaman Güncelleme
+title: Süre Sistemini Anlamak
+sidebar_label: Süre Sistemini Anlamak
 slug: /time-updater
 ---
 ## Çekiliş Süreleri Nasıl Güncellenir? {#how-to-update-giveaway-periods}
