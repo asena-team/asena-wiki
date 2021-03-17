@@ -26,7 +26,7 @@ Asena ile çekilişler ve sorular oluşturmaya hazır mısınız? Şu anda herke
 
 Asena davet bağlantısına bastıktan sonra şöyle bir menü görmelisiniz:
 
-![invite](../../../static/img/tutorial/invite-1.png)
+![invite](../../../static/img/docs/adding/invite-1.png)
 
 Bir sunucu seçin düğmesine dokunun veya tıklayın. Asena'yı eklemek istediğiniz yeri seçmenize izin verecek bir açılır pencere
 görünmelidir. 
@@ -40,7 +40,7 @@ Sunucunuzu bu açılır listede görmüyorsanız, [burayı tıklayın](/docs/gen
 Asena'yı eklemek istediğiniz sunucuyu seçtikten sonra, menünün sağ alt kısmındaki Devam düğmesine basabilirsiniz. Şimdi
 buna benzer bir şey görmelisiniz:
 
-![invite](../../../static/img/tutorial/invite-2.png)
+![invite](../../../static/img/docs/adding/invite-2.png)
 
 ### Son Adım {#final-step}
 
