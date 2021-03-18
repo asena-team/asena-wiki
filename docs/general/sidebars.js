@@ -26,6 +26,7 @@ module.exports = {
             collapsed: true,
             items: [
                 'troubleshooting/invite-troubleshooting',
+                'troubleshooting/basic-troubleshooting',
                 'troubleshooting/mobile-troubleshooting',
                 'troubleshooting/support'
             ]
