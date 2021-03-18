@@ -28,6 +28,7 @@ module.exports = {
                 'troubleshooting/invite-troubleshooting',
                 'troubleshooting/basic-troubleshooting',
                 'troubleshooting/mobile-troubleshooting',
+                'troubleshooting/giveaway-troubleshooting',
                 'troubleshooting/support'
             ]
         }
