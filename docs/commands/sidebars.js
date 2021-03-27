@@ -8,6 +8,7 @@ module.exports = {
             items: [
                 'giveaway/create',
                 'giveaway/reroll',
+                'giveaway/fix',
                 'giveaway/cancel',
                 'giveaway/end',
                 'giveaway/raffles',
