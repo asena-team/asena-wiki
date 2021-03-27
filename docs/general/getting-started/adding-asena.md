@@ -45,7 +45,10 @@ buna benzer bir şey görmelisiniz:
 ### Son Adım {#final-step}
 
 Yetkilendir düğmesine bastıktan ve Captcha'yı tamamladıktan sonra, [Asena Destek](https://dc.asena.xyz) sunucusuna
-yönlendirilmelisiniz. Bu botun sunucunuza başarıyla eklendiği anlamına gelir.
+yönlendirilmelisiniz. Bu botun sunucunuza başarıyla eklendiği anlamına gelir. Ek olarak Discord sunucunuzda aşağıdaki
+gibi bir mesaj da göreceksiniz. **İnanılmaz!**
+
+![invite](../../../static/img/docs/adding/invite-3.png)
 
 :::caution DİKKAT 
 Eğer Asena'yı sunucunuzda göremiyorsanız üye listesinden bunu doğrulayın. Üye listesinde Asena'yı
