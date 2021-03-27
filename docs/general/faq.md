@@ -55,6 +55,10 @@ Hayır, Discord botların profil resimlerini/avatarlarını sunucu içerisinde d
 
 Asena ile aynı anda 5 çekiliş başlatabilirsiniz. Bu sınırı arttırmaya çalışıyoruz.
 
+### Asena ile başlattığım bir çekilişi en fazla kaç kişi katılabilir? {#how-many-people-can-participate-in-a-lottery-that-i-started-with-asena}
+
+Bu konuda herhangi bir kısıtlama bulunmuyor. Yani sınırsız.
+
 ### Asena için özel komutlar oluşturabilir miyim? {#can-i-make-custom-commands-for-asena}
 
 Hayır, özel komutlara ve takma adlara izin vermiyoruz. Kullanılabilir takma adları kontrol etmek
