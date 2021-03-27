@@ -1,6 +1,7 @@
 module.exports = {
     docs: {
         'Sürüm Geçmişi': [
+            'v1.5.1',
             'v1.5.0',
             'v1.4.0',
             'v1.3.3',

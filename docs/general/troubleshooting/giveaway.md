@@ -22,12 +22,12 @@ slug: /giveaway-troubleshooting
 * Botun çekiliş mesajının olduğu kanalda botun gerekli izinleri olduğundan emin olun. Bota direk `Yönetici` izni vererek 
   bu adımı kolaylaştırabilirsiniz.
 
-3. **Çekilişi erken bitirmeyi deneyin.**
+3. **Çekilişi düzeltmeyi deneyin.**
 
-* `!aend` komutumuzu kullanarak çekilişinizi komutla manuel olarak bitirin. Bu komutu nasıl kullanacağınızı bilmiyorsanız
-    [buraya tıklayarak](/docs/commands/end) öğrenebilirsiniz.
-  
-    Eğer bunu yaptığınızda çekilişiniz halen bitmediyse, sıradaki adımı takip edin.
+* `!afix` komutumuzu kullanarak çekilişinizi komutla manuel olarak düzeltmeyi deneyin. Bu komutu nasıl kullanacağınızı
+  bilmiyorsanız [buraya tıklayarak](/docs/commands/fix) öğrenebilirsiniz.
+
+  Eğer bunu yaptığınızda çekilişiniz halen bitmediyse, sıradaki adımı takip edin.
 
 4. **Çekilişin kazananlarını tekrar çekmeyi deneyin.**
 
