@@ -181,7 +181,7 @@ body {
     display: inline-block;
     padding-top: 3px;
     padding-bottom: 3px;
-    padding-right: 8px;
+    padding-right: 12px;
 }
 
 .table-of-contents li{
@@ -191,7 +191,7 @@ body {
 /* Table of Contents */
 .table-of-contents .table-of-contents__link--active {
     display: inline-block;
-    font-weight: 500;
+    font-weight: 600;
     margin-left: -16px;
     padding: 3px 8px 3px 12px;
     border-top-right-radius: var(--ifm-code-border-radius);
