@@ -177,11 +177,23 @@ body {
     background-color: rgba(121, 118, 171, 0.2);
 }
 
+.table-of-contents__link{
+    display: inline-block;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 12px;
+}
+
+.table-of-contents li{
+    margin: 4px 8px;
+}
+
 /* Table of Contents */
 .table-of-contents .table-of-contents__link--active {
-    font-weight: 500;
+    display: inline-block;
+    font-weight: 600;
     margin-left: -16px;
-    padding: 6px 8px 6px 12px;
+    padding: 3px 8px 3px 12px;
     border-top-right-radius: var(--ifm-code-border-radius);
     border-bottom-right-radius: var(--ifm-code-border-radius);
     color: var(--ifm-font-color-base);
