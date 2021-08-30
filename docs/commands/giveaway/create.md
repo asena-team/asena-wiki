@@ -31,4 +31,7 @@ Yeni bir çekiliş oluşturur.
 * Çekiliş kazanan sayısı en az 1 kişi, en fazla 20 kişi olabilir.
 * Ödül başlığı maksimum 255 karakter uzunluğunda olabilir. **(Bu Discord tarafından zorunlu tutulan bir kısıtlamadır.)**
 * Aynı anda maksimum 5 çekiliş oluşturabilirsiniz.
+* Eğer çekilişi oluşturduğunuz/oluşturmaya çalıştığınız kanal Discord'un _'Duyuru'_ tipindeki kanal ise çekiliş oluşmaz,
+  daha önceden oluşturulup sonradan kanal tipi _'Duyuru'_ olarak değiştirilmişse çekiliş açıklanmaz. 
+  [Daha fazla bilgi için buraya göz atabilirsiniz.](/docs/general/faq#can-asena-giveaway-announcement-channel)
 :::

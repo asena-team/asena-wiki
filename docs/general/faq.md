@@ -53,7 +53,7 @@ Hayır, Discord botların profil resimlerini/avatarlarını sunucu içerisinde d
 
 ### Asena ile aynı anda kaç tane çekiliş başlatabilirim? {#how-many-lotteries-can-i-start-at-the-same-time-with-asena}
 
-Asena ile aynı anda 5 çekiliş başlatabilirsiniz. Bu sınırı arttırmaya çalışıyoruz.
+Normal üyeler aynı anda 5, Premium üyeler ise 8 çekiliş başlatabilir.
 
 ### Asena ile başlattığım bir çekilişi en fazla kaç kişi katılabilir? {#how-many-people-can-participate-in-a-lottery-that-i-started-with-asena}
 
@@ -68,13 +68,20 @@ gelip aklınıza gelebilecek tüm takma adları bize önerebilirsiniz.
 ### Asena aynı anda bu kadar çok sunucuda olması nasıl mümkün olabilir? {#how-is-it-possible-for-asena-to-be-in-so-many-servers-all-in-once}
 
 Discord, 2.000'den fazla sunucudaki botların Sharding adlı bir özelliği kullanmasına izin verir. Asena'nın durumunda,
-5.000 sunucu olduğundan çalışma süresini korumak için çok sayıda parçaya ihtiyacımız var. Daha fazla ayrıntı için,
+12.500 sunucu olduğundan çalışma süresini korumak için çok sayıda parçaya ihtiyacımız var. Daha fazla ayrıntı için,
 Discord'un Parçalama özelliği hakkında daha fazlasını görüntülemek için [buraya tıklayın](https://discord.com/developers/docs/topics/gateway#sharding).
 
 ### Asena diğer botlar tarafından verilen komutları çalıştırabilir mi? {#can-asena-execute-commands-given-by-other-bots}
 
 Hayır, kolayca kötüye kullanılabileceği için Asena diğer botlar tarafından verilen komutlara yanıt vermez. Bu kısıtlama
 kaldırılmayacak ve herhangi bir istisna yapılmayacaktır.
+
+
+### Asena ile duyuru kanalında çekiliş yapabilir miyim? {#can-asena-giveaway-announcement-channel}
+
+Eğer kanal _'Duyuru'_ tipinde ise hayır yapamazsınız. En başta bot komutlarınızı algılamaz. Eğer metin kanalında iken
+çekilişi başlatıp, sonradan kanal tipini _'Duyuru'_ olarak ayarlarsanız bot çekilişi açıklamaz. Bu şekilde bozulan çekilişiniz
+varsa kanalı metin kanalına çevirip çekilişinizi [kurtarabilirsiniz](/docs/general/giveaway-troubleshooting).
 
 ## Asena Bağlantıları {#links}
 

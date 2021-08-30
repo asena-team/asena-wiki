@@ -52,6 +52,9 @@ Premium üyeleri için gelişmiş çekiliş oluşturur.
 * Çekiliş rengi hexadecimal renk kodu veya bir rengin ingilizce adı olmalıdır.
 * Sunucular parametresine sunucunun aktif davet bağlantısı olmalıdır ve bot davet bağlantısı verilen sunucular içerisinde bulunmalıdır. Ayrıca maksimum 3 farklı sunucu belirtebilirsiniz.
 * Rol parametreleri rolün etiketini, id'sini veya adını içermelidir, ödül olarak maksimum 8 katılma şartı olarak ise maksimum 10 rol belirtebilirsiniz.
+* Eğer çekilişi oluşturduğunuz/oluşturmaya çalıştığınız kanal Discord'un _'Duyuru'_ tipindeki kanal ise çekiliş oluşmaz,
+  daha önceden oluşturulup sonradan kanal tipi _'Duyuru'_ olarak değiştirilmişse çekiliş açıklanmaz.
+  [Daha fazla bilgi için buraya göz atabilirsiniz.](/docs/general/faq#can-asena-giveaway-announcement-channel)
 
 ### ✏️ Örnek {#examples}
 

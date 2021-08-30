@@ -22,7 +22,7 @@ Geliştirme ekibimiz her zaman hizmetimizi iyileştirmenin yeni yollarını arad
 ve size mümkün olan en iyi deneyimi sunmak için çalışmaktadır.
 
 * ### Discord'da oldukça popülerdir {#popular-giveaway-bot-on-discord}
-Asena, `10.000`'den fazla Discord sunucusuna hizmet veriyor ve her geçen gün artmaya devam ediyor!
+Asena, `12.500`'den fazla Discord sunucusuna hizmet veriyor ve her geçen gün artmaya devam ediyor!
 
 ## O Halde Ne Bekliyorsun? {#why-wait}
 
