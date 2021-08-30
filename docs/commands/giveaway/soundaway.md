@@ -10,10 +10,10 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 
 ## 🏷️ Takma Adları {#alias}
 
-- avoice
-- avoiceaway
-- asoundstart
-- asesçekiliş
+- voice
+- voiceaway
+- soundstart
+- sesçekiliş
 
 ---
 

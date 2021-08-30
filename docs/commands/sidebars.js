@@ -7,10 +7,12 @@ module.exports = {
             collapsed: false,
             items: [
                 'giveaway/create',
+                'giveaway/createp',
                 'giveaway/reroll',
                 'giveaway/fix',
                 'giveaway/cancel',
                 'giveaway/end',
+                'giveaway/edit',
                 'giveaway/raffles',
                 'giveaway/setup',
                 'giveaway/soundaway'
@@ -27,12 +29,13 @@ module.exports = {
         },
         {
             type: 'category',
-            label: 'Kişiselleştirme Komutları',
+            label: 'Sunucu Komutları',
             collapsed: false,
             items: [
                 'server/locale',
                 'server/scperm',
-                'server/setprefix'
+                'server/setprefix',
+                'server/premium'
             ]
         },
         {

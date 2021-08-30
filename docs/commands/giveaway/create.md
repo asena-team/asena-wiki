@@ -30,4 +30,5 @@ Yeni bir çekiliş oluşturur.
 * Çekiliş süresi en az 1 dakika, en fazla 2 ay olabilir. **(Bu süreyi daha fazla uzatmak için çalışıyoruz.)**
 * Çekiliş kazanan sayısı en az 1 kişi, en fazla 20 kişi olabilir.
 * Ödül başlığı maksimum 255 karakter uzunluğunda olabilir. **(Bu Discord tarafından zorunlu tutulan bir kısıtlamadır.)**
+* Aynı anda maksimum 5 çekiliş oluşturabilirsiniz.
 :::
