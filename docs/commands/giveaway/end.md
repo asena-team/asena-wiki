@@ -1,7 +1,7 @@
 ---
 id: finish
 title: finish Komutu
-sidebar_label: finsih
+sidebar_label: finish
 slug: /finish
 ---
 Devam eden bir çekilişi erken bitirir.
