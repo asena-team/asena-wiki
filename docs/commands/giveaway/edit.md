@@ -10,16 +10,9 @@ Oluşturulan çekilişi devam ederken düzenler.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- set
-- düzenle
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!aedit [numberOfWinners | color | prize | time | rewardRoles] [...args]`
+`/edit [numberOfWinners | color | prize | time | rewardRoles] [...args]`
 
 ### 💢 Bazı Önemli Hususlar {#importants}
 
@@ -34,8 +27,8 @@ Bunların dışında çekiliş oluşturmadaki tüm kural ve kısıtlamalar burad
 ### ✏️ Örnek {#examples}
 
 ```markdown
-> !aedit color FFFFFF
-> !aedit color D7B5EB --raffle 814668595170639873
-> !aedit prize Lorem Ipsum
-> !aedit rewardRoles + @Role,RoleID
+> /edit color FFFFFF
+> /edit color D7B5EB --raffle 814668595170639873
+> /edit prize Lorem Ipsum
+> /edit rewardRoles + @Role,RoleID
 ```

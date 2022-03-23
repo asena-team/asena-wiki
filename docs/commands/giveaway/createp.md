@@ -8,19 +8,13 @@ Premium üyeleri için gelişmiş çekiliş oluşturur.
 
 **DİKKAT:** Bu komut sadece **Premium** kullanıcıları içindir.
 
----
-
-## 🏷️ Takma Adları {#alias}
-
-- cekilisbaslatp
-- createrafflep
 
 ---
 
 ## ❓ Kullanımı {#usage}
 
 ```bash
-!acreatep 
+/createp 
     --numberOfWinners "kazanan sayısı" 
     --time "süre" 
     --prize "ödül"

@@ -9,13 +9,6 @@ listesini özel mesajlardan size gönderir. Eğer özel mesajlarınız kapalıys
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- yardim
-- yardım
-
----
-
 ## ❓ Kullanımı {#usage}
 `/help [komut-adı]`
 

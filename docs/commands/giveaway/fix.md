@@ -8,15 +8,9 @@ Bitmesi gerekirken bitmeyen çekilişleri bitirir.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- duzelt
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!afix <mesaj-id>`
+`/fix <mesaj-id>`
 
 - **mesaj-id:** Düzeltmek istenilen çekiliş için kullanılır. Birden fazla çekilişiniz varsa ve mesaj-id
   girmemişseniz en son oluşturduğunuz çekilişi erken bitirir. *[İsteğe Bağlı]*

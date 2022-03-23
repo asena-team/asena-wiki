@@ -1,17 +1,9 @@
 ---
-id: raffles
-title: raffles Komutu
-sidebar_label: raffles
-slug: /raffles
+id: giveaways
+title: giveaways Komutu
+sidebar_label: giveaways
+slug: /giveaways
 ---
 Sunucudaki aktif çekilişleri listeler.
 
 ---
-
-## 🏷️ Takma Adları {#alias}
-
-- çekilişler
-- aktifçekilişler
-- cekilisler
-- activeraffles
-- list

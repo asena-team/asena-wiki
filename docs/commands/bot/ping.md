@@ -7,7 +7,3 @@ slug: /ping
 Botun ağ gecikme sürelerini gösterir.
 
 ---
-
-## 🏷️ Takma Adları {#alias}
-
-- ms
