@@ -23,6 +23,6 @@ Bu komutu kullanırken birden fazla şık eklemek isterseniz şıklar arasına (
 
 ### ✏ Örnek {#examples}
 ```markdown 
-> **/question [soru - question]**(Merhaba Kullanıcı!) **[şıklar - answers]**(Çekiliş|Asena|Bot)
-> **/question [soru - question]**(Survey Örnek) **[şıklar - answers]**(Survey|Komut|Asena)
+> /question [soru - question](Merhaba Kullanıcı!) [şıklar - answers](Çekiliş|Asena|Bot)
+> /question [soru - question](Survey Örnek) [şıklar - answers](Survey|Komut|Asena)
 >❓[] parametreleri komutu kullanırken zorunlu olarak doldurulması gereken yerlerdir. () parametreleri [] ile belirtilen zorunlu yerlere yazabileceğiniz örnek cümlelerdir.
