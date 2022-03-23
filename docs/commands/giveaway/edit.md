@@ -12,7 +12,7 @@ Oluşturulan çekilişi devam ederken düzenler.
 
 ## ❓ Kullanımı {#usage}
 
-`/edit [numberOfWinners | color | prize | time | rewardRoles] [...args]`
+`/edit [option (color,prize,time,winners) |operator (+ , -) | value | giveaway (İsteğe Bağlı) ] `
 
 ### 💢 Bazı Önemli Hususlar {#importants}
 

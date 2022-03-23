@@ -8,15 +8,9 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- tekrarcek
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`/reroll <mesaij-id> <tekrar çekilecek kişi sayısı>`
+`/reroll <mesaj-id> <tekrar çekilecek kişi sayısı>`
 
 - **tekrar çekilecek kişi sayısı:** Çekiliş katılımcıları arasında kaç kişiden tekrar çekilmesi gerektiğini belirtirsiniz. 
   Eğer bu parametreyi belirtmezseniz tüm katılımcılar arasından çekecektir. *[İsteğe Bağlı]*

@@ -33,7 +33,7 @@ Bot içerisinde kullanabileceğiniz iletişim dillerini ve kodlarını listeler.
 
 Botun sunucu içerisindeki varsayılan iletişim dilini değiştirir.
 
-**Örnek:** `!alocale set en`
+**Örnek:** `/locale set en`
 
 ### reset
 

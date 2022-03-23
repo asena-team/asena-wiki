@@ -68,7 +68,7 @@ gelip aklınıza gelebilecek tüm takma adları bize önerebilirsiniz.
 ### Asena aynı anda bu kadar çok sunucuda olması nasıl mümkün olabilir? {#how-is-it-possible-for-asena-to-be-in-so-many-servers-all-in-once}
 
 Discord, 2.000'den fazla sunucudaki botların Sharding adlı bir özelliği kullanmasına izin verir. Asena'nın durumunda,
-12.500 sunucu olduğundan çalışma süresini korumak için çok sayıda parçaya ihtiyacımız var. Daha fazla ayrıntı için,
+20.250 sunucu olduğundan çalışma süresini korumak için çok sayıda parçaya ihtiyacımız var. Daha fazla ayrıntı için,
 Discord'un Parçalama özelliği hakkında daha fazlasını görüntülemek için [buraya tıklayın](https://discord.com/developers/docs/topics/gateway#sharding).
 
 ### Asena diğer botlar tarafından verilen komutları çalıştırabilir mi? {#can-asena-execute-commands-given-by-other-bots}

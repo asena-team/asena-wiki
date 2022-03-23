@@ -1,8 +1,8 @@
 ---
-id: end
-title: end Komutu
-sidebar_label: end
-slug: /end
+id: finish
+title: finish Komutu
+sidebar_label: finsih
+slug: /finish
 ---
 Devam eden bir çekilişi erken bitirir.
 
@@ -10,7 +10,7 @@ Devam eden bir çekilişi erken bitirir.
 
 ## ❓ Kullanımı {#usage}
 
-`/end <mesaj-id>`
+`/finish <mesaj-id>`
 
 - **mesaj-id:** Erken bitirilmek istenilen çekiliş için kullanılır. Birden fazla çekilişiniz varsa ve mesaj-id 
   girmemişseniz en son oluşturduğunuz çekilişi erken bitirir. *[İsteğe Bağlı]*

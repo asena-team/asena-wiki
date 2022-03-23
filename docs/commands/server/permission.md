@@ -1,8 +1,8 @@
 ---
-id: scperm
-title: scperm Komutu
-sidebar_label: scperm
-slug: /scperm
+id: permission
+title: permission Komutu
+sidebar_label: permission
+slug: /permission
 ---
 Botun sunucu içerisindeki komut izinlerini düzenler.
 
@@ -13,16 +13,9 @@ Geriye kalam tüm komutların izinlerini düzenleyip değiştirmekte özgürsün
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- setcommmandpermission
-- setcommandperm
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!ascperm [everyone | admin] [komut]`
+`/permission [everyone | admin] [komut]`
 
 - **everyone & admin:** Komuta vereceğiniz izin seviyesi. *[Zorunlu]*
 - **komut:** İzin seviyesini düzenlemek istediğiniz komutun adı. *[Zorunlu]*

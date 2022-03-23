@@ -24,7 +24,7 @@ slug: /giveaway-troubleshooting
 
 3. **Çekilişi düzeltmeyi deneyin.**
 
-* `!afix` komutumuzu kullanarak çekilişinizi komutla manuel olarak düzeltmeyi deneyin. Bu komutu nasıl kullanacağınızı
+* `/fix` komutumuzu kullanarak çekilişinizi komutla manuel olarak düzeltmeyi deneyin. Bu komutu nasıl kullanacağınızı
   bilmiyorsanız [buraya tıklayarak](/docs/commands/fix) öğrenebilirsiniz.
 
   Eğer bunu yaptığınızda çekilişiniz halen bitmediyse, sıradaki adımı takip edin.
