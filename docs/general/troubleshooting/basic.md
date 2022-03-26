@@ -31,7 +31,7 @@ Asena, slash komutlar ile kullanılmaktadır bu yüzden komut önadı (prefix)`/
   
   ![asena-prefix](../../../static/img/docs/basic-troubleshooting/prefix.png)
 
-* Komut önekinizi nasıl değiştireceğinizi öğrenmek için [buraya tıklayabilirsiniz](/docs/commands/setprefix).
+  
 
 3. **Asena'nın kanalda mesaj okuma ve gönderme izinlerine sahip olduğundan emin olun.**
 

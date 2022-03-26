@@ -46,7 +46,7 @@ Asena'da her komutun belli bir yetki seviyesi vardır. Bunlar genelde ya herkese
 Kullanıcılarımızın komutları esnek yetki seviyelerinde kullanabilmeleri için çeşitli yöntemler vardır.
 
 1- `permission` komutu. Bu komut ile diğer komutları sunucunuz içerisinde herkese açabilir veya kapatabilirsiniz. 
-[`permission` komutu hakkında daha fazla bilgi için buraya tıklayın.](/docs/commands/scperm)
+[`permission` komutu hakkında daha fazla bilgi için buraya tıklayın.](/docs/commands/permission)
 
 2- `Asena` rolü. Komutu kullanmasını istediğiniz kişiye rengi, yetki seviyesi ve büyük - küçük harf fark etmeksizin `Asena` adında bir rol oluşturup 
 verirseniz, rolü verdiğiniz kişi botun tüm komutlarını yetki seviyesine bakılmaksızın kullanabilir. Yani bu role sahip kişiler bot üzerinde **yönetici** 

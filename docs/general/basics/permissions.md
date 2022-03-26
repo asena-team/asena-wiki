@@ -30,7 +30,7 @@ Asena'nın yerleşik izin sistemi aşağıdaki gruplara ayrılabilir:
 ## Tüm kullanıcıların herhangi bir komuta erişmesine nasıl izin verebilirim? {#how-can-i-allow-all-users-to-access-any-command}
 
 Tam size göre bir komutumuz var. Komut izin değiştirme komutumuzu kullanarak komutları halka açabilir veya
-kapatabilirsiniz. Komut izinlerini değiştirme komutunu nasıl kullanacağınızı öğrenmek için [buraya tıklayın.](/docs/commands/scperm)
+kapatabilirsiniz. Komut izinlerini değiştirme komutunu nasıl kullanacağınızı öğrenmek için [buraya tıklayın.](/docs/commands/permission)
 
 ## Belirli bir kullanıcının tüm komutlara erişmesine nasıl izin verebilirim? {#how-can-i-allow-a-specific-user-to-access-all-commands}
 
