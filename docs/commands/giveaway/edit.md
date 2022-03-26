@@ -21,7 +21,7 @@ Oluşturulan çekilişi devam ederken düzenler.
 * Şu anlık çekilişe katılmak için gereken roller ve bulunması gereken roller çekiliş sürerken düzenlenemez.
 
 :::note NOT
-Bunların dışında çekiliş oluşturmadaki tüm kural ve kısıtlamalar burada da geçerlidir. [Dikkat edilecek hususları bilmiyorsanız incelemek için buraya göz atabilirsiniz.](/docs/commands/createp#importants)
+Bunların dışında çekiliş oluşturmadaki tüm kural ve kısıtlamalar burada da geçerlidir. [Dikkat edilecek hususları bilmiyorsanız incelemek için buraya göz atabilirsiniz.](/docs/commands/create#importants)
 :::
 
 ### ✏️ Örnek {#examples}
