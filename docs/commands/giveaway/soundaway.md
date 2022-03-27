@@ -13,7 +13,7 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 /soundaway **winners:** kazanan sayısı **title:** ödül başlığı **user:** ses kanalında bulunan kullanıcı **channel:** ses kanalı
 
 - **winners:** Çekilişi kazanacak kişi sayısı. *[Zorunlu]*
-- <user | channel | boş>
+- **<user | channel | boş>**
   * **user**: Etiketlediğiniz kişi eğer bir ses kanalındaysa o ses kanalındaki kullanıcılardan çeker *[İsteğe Bağlı]*
   * **channel:** Çekiliş yapmak istediğiniz ses kanalı. Eğer user girilmiş ise bu parametre görmezden gelinir *[İsteğe Bağlı]*
   * **boş:** Eğer bu kısmı boş burakırsanız çekilişi sunucunuzdaki tüm sesli kanallardan çeker *[İsteğe Bağlı]*
