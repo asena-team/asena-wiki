@@ -15,10 +15,10 @@ Geriye kalam tüm komutların izinlerini düzenleyip değiştirmekte özgürsün
 
 ## ❓ Kullanımı {#usage}
 
-`/permission [everyone | admin] [komut]`
+/permission **state:** everyone|admin **command:** komut-adı
 
-- **everyone & admin:** Komuta vereceğiniz izin seviyesi. *[Zorunlu]*
-- **komut:** İzin seviyesini düzenlemek istediğiniz komutun adı. *[Zorunlu]*
+- **state:** Komuta vereceğiniz izin seviyesi. (everyone & admin) *[Zorunlu]*
+- **command:** İzin seviyesini düzenlemek istediğiniz komutun adı. *[Zorunlu]*
 
 :::note NOT
 `admin` komutu sadece adminlerin kullamına, `everyone` ise komutu herkesin kullanımına açar.

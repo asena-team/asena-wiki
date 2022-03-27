@@ -10,9 +10,10 @@ listesini özel mesajlardan size gönderir. Eğer özel mesajlarınız kapalıys
 ---
 
 ## ❓ Kullanımı {#usage}
-`/help [komut-adı]`
 
-- **komut adı:** Detaylı bilgi almak istediğiniz komutun adı. *[İsteğe Bağlı]*
+/help **command:** komut
 
-Örneğin; `/help botinfo` yazarsanız bot size parametre olarak verilen komutun yani `botinfo` komutunun takma adlarını 
-(alias), açıklamasını, minimum yetki seviyesini, kullanımını ve birkaç örnek kullanımını gösterir.
+- **command:** Detaylı bilgi almak istediğiniz komutun adı. *[İsteğe Bağlı]*
+
+**Örneğin;** `/help botinfo` yazarsanız bot size parametre olarak verilen komutun yani `botinfo` komutunun açıklamasını, 
+minimum yetki seviyesini, parametrelerini ve örnek kullanımlarını gösterir.

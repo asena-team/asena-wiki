@@ -16,7 +16,7 @@ bağlantıyı takip ederek projeye katkıda bulunabilirsiniz.
 
 ## ❓ Kullanımı {#usage}
 
-`/locale [list | set | reset] <args>`
+`/locale [list | set | reset | current] <args>`
 
 - **Parametre 1:** Alt komutun adı. *[Zorunlu]*
 - **args:** Alt komut eğer parametre alıyorsa, alacağı parametreler. *[İsteğe Bağlı]*
@@ -33,7 +33,7 @@ Bot içerisinde kullanabileceğiniz iletişim dillerini ve kodlarını listeler.
 
 Botun sunucu içerisindeki varsayılan iletişim dilini değiştirir.
 
-**Örnek:** `/locale set en`
+**Örnek:** /locale set **code:** English
 
 ### reset
 

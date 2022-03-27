@@ -10,19 +10,18 @@ Sunucu içerisinde şıklı yeni bir soru yaratır.
 
 ## ❓ Kullanımı {#usage}
 
-`/question {soru} ...[şıklar]`
+/question **question:** soru **answers:** şıklar
 
-- **soru:** Sormak istediğiniz soru. *[Zorunlu]*
-- **şıklar:** Sorunun şıkları. *[Zorunlu]*
+- **question:** Sormak istediğiniz soru. *[Zorunlu]*
+- **answers:** Sorunun şıkları. *[Zorunlu]*
 
 :::caution UYARI
-Bu komutu kullanırken birden fazla şık eklemek isterseniz şıklar arasına ( | ) yazmak zorundasınız. 
+Bu komutu kullanırken birden fazla şık eklemek isterseniz şıklar arasına **|** yazmak zorundasınız. 
 :::
 
----
+### ✏️ Örnek {#examples}
 
-### ✏ Örnek {#examples}
 ```markdown 
-> **/question [soru - question]**(Merhaba Kullanıcı!) **[şıklar - answers]**(Çekiliş|Asena|Bot)
-> **/question [soru - question]**(Survey Örnek) **[şıklar - answers]**(Survey|Komut|Asena)
->❓[] parametreleri komutu kullanırken zorunlu olarak doldurulması gereken yerlerdir. () parametreleri [] ile belirtilen zorunlu yerlere yazabileceğiniz örnek kelimelerdir.
+/question question: your cool question answers: foo|bar|baz
+/question question: 1 + 1 answers: 2|1
+```
