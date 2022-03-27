@@ -12,6 +12,8 @@ Yeni bir çekiliş oluşturur.
 
 `/create [kazanan sayısı] [süre] [ödül] / İsteğe Bağlı [color] [servers] [reward-roles] [allowed-roles]`
 
+## ✨ Parametreler ve Anlamları {#parameters-and-meanings}
+
 | Parametre     | Açıklama                                                                      | Zorunlu | Premium |
 |---------------|-------------------------------------------------------------------------------|---------|---------|
 | winners       | Çekilişi kazanacak kişi sayısı.                                               | ✔       | ❌       |
