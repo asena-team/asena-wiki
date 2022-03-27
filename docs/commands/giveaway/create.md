@@ -10,7 +10,7 @@ Yeni bir çekiliş oluşturur.
 
 ## ❓ Kullanımı {#usage}
 
-`/create winners:kazanan-sayısı time:süre prize:ödül reward-roles:ödül olarak verilecek roller allowed-roles:çekilişe katılabilecek roller servers:çekilişe katılabilmesi için kullanıcının bulunması gereken sunucular`
+/create **winners:** kazanan-sayısı **time:** süre **prize:** ödül **color:** PURPLE **reward-roles:** ödül olarak verilecek roller **allowed-roles:** çekilişe katılabilecek roller **servers:** çekilişe katılabilmesi için kullanıcının bulunması gereken sunucular
 
 ### ✨ Parametreler ve Anlamları {#parameters-and-meanings}
 
