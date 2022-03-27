@@ -7,14 +7,12 @@ module.exports = {
             collapsed: false,
             items: [
                 'giveaway/create',
-                'giveaway/createp',
                 'giveaway/reroll',
                 'giveaway/fix',
                 'giveaway/cancel',
-                'giveaway/end',
+                'giveaway/finish',
                 'giveaway/edit',
-                'giveaway/raffles',
-                'giveaway/setup',
+                'giveaway/giveaways',
                 'giveaway/soundaway'
             ]
         },
@@ -33,8 +31,7 @@ module.exports = {
             collapsed: false,
             items: [
                 'server/locale',
-                'server/scperm',
-                'server/setprefix',
+                'server/permission',
                 'server/premium'
             ]
         },

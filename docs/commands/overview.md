@@ -6,8 +6,7 @@ slug: /
 ---
 ## Komut Öneki {#prefix}
 
-Asena 'nın varsayılan komut öneki *(prefix)* `!a` 'dır. 
-Eğer komut ön adınızı değiştirdiyseniz, değiştirdiğiniz komut önekinizi kullanmanız gerekir.
+Asena 'nın varsayılan komut öneki *(prefix)* `/` 'dır. 
 
 :::tip İPUCU
 Eğer komut önekinizi unuttuysanız botun görebileceği herhangi bir kanala `>>prefix` yazarak, komut önekinizi öğrenebilirsiniz.
@@ -32,10 +31,10 @@ Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **
 ### Örnek Çözümleme: {#resolve}
 
 ```md
-!asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>
+/soundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>
              │                │                                 │
              │                │                                 └── Başlık parametresinin isteğe bağlı olarak girilebilir.
-             │                └── Bu parametre kullanıcı, ses kanal ID 'si veya boş bırakılabilir anlamına gelir. İsteğe bağlıdır.
+             │                └── Bu parametre kullanıcı, ses kanal'si veya boş bırakılabilir anlamına gelir. İsteğe bağlıdır.
              └── Kazanan sayısı girilmesi zorunlu parametredir.
 ```
 
@@ -46,8 +45,8 @@ Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **
 Asena'da her komutun belli bir yetki seviyesi vardır. Bunlar genelde ya herkese açıktır, yada `ADMINISTRATOR` yetki seviyesinde olurlar.
 Kullanıcılarımızın komutları esnek yetki seviyelerinde kullanabilmeleri için çeşitli yöntemler vardır.
 
-1- `scperm` komutu. Bu komut ile diğer komutları sunucunuz içerisinde herkese açabilir veya kapatabilirsiniz. 
-[`scperm` komutu hakkında daha fazla bilgi için buraya tıklayın.](/docs/commands/scperm)
+1- `permission` komutu. Bu komut ile diğer komutları sunucunuz içerisinde herkese açabilir veya kapatabilirsiniz. 
+[`permission` komutu hakkında daha fazla bilgi için buraya tıklayın.](/docs/commands/permission)
 
 2- `Asena` rolü. Komutu kullanmasını istediğiniz kişiye rengi, yetki seviyesi ve büyük - küçük harf fark etmeksizin `Asena` adında bir rol oluşturup 
 verirseniz, rolü verdiğiniz kişi botun tüm komutlarını yetki seviyesine bakılmaksızın kullanabilir. Yani bu role sahip kişiler bot üzerinde **yönetici** 

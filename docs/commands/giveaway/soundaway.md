@@ -8,18 +8,9 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- voice
-- voiceaway
-- soundstart
-- sesçekiliş
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!asoundaway [kazanan sayısı] <@kullanıcı | ses-kanal-id | boş> <başlık>`
+`/soundaway [kazanan sayısı] / İsteğe Bağlı <@kullanıcı | ses-kanal-id | boş> <başlık>`
 
 - **kazanan sayısı:** Çekilişi kazanacak kişi sayısı. *[Zorunlu]*
 - <@kullanıcı | ses-kanal-id | boş>

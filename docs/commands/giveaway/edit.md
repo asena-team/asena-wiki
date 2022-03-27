@@ -10,16 +10,9 @@ Oluşturulan çekilişi devam ederken düzenler.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- set
-- düzenle
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!aedit [numberOfWinners | color | prize | time | rewardRoles] [...args]`
+`/edit [option (color,prize,time,winners) |operator (+ , -) | value | giveaway (İsteğe Bağlı) ] `
 
 ### 💢 Bazı Önemli Hususlar {#importants}
 
@@ -28,14 +21,14 @@ Oluşturulan çekilişi devam ederken düzenler.
 * Şu anlık çekilişe katılmak için gereken roller ve bulunması gereken roller çekiliş sürerken düzenlenemez.
 
 :::note NOT
-Bunların dışında çekiliş oluşturmadaki tüm kural ve kısıtlamalar burada da geçerlidir. [Dikkat edilecek hususları bilmiyorsanız incelemek için buraya göz atabilirsiniz.](/docs/commands/createp#importants)
+Bunların dışında çekiliş oluşturmadaki tüm kural ve kısıtlamalar burada da geçerlidir. [Dikkat edilecek hususları bilmiyorsanız incelemek için buraya göz atabilirsiniz.](/docs/commands/create#importants)
 :::
 
 ### ✏️ Örnek {#examples}
 
 ```markdown
-> !aedit color FFFFFF
-> !aedit color D7B5EB --raffle 814668595170639873
-> !aedit prize Lorem Ipsum
-> !aedit rewardRoles + @Role,RoleID
+> /edit color FFFFFF
+> /edit color D7B5EB --raffle 814668595170639873
+> /edit prize Lorem Ipsum
+> /edit rewardRoles + @Role,RoleID
 ```

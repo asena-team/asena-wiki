@@ -8,15 +8,9 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- tekrarcek
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!areroll <tekrar çekilecek kişi sayısı> <mesaj-id>`
+`/reroll <mesaj-id> <tekrar çekilecek kişi sayısı>`
 
 - **tekrar çekilecek kişi sayısı:** Çekiliş katılımcıları arasında kaç kişiden tekrar çekilmesi gerektiğini belirtirsiniz. 
   Eğer bu parametreyi belirtmezseniz tüm katılımcılar arasından çekecektir. *[İsteğe Bağlı]*
@@ -24,8 +18,7 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
 - **mesaj-id:** Tekrar çekilmek istenilen çekilişi belirlemek için kullanılır. Birden fazla çekilişiniz varsa ve mesaj-id 
   girmemişseniz en son oluşturduğunuz çekilişi tekrar çeker. *[İsteğe Bağlı]*
 
-:::tip IPUCU
-Komutta bulunan parametrelerin yerleri, yani hangisini önce yazdığınız fark etmez.
+::tip IPUCU
 
 **Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
 noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden

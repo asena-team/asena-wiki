@@ -12,7 +12,7 @@ Asena ile çekilişler ve sorular oluşturmaya hazır mısınız? Şu anda herke
 
 <h3>Asena (<code>Asena#2614</code>)</h3>
 
-* Prefix: `!a`
+* Prefix: `/`
 * Asena, çoğu sunucu tarafından kullanılan ana botumuzdur. Bu bot ve özelliklerinin hepsi halka ücretsiz olarak
   sunulmaktadır.
 

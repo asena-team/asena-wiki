@@ -13,7 +13,7 @@ Asena'nın komut önekini bilmiyor veya unutuyorsanız, strese girmeyin. Biz siz
 görebileceği bir sohbet kanalına `>>prefix` yazarak bunu kolayca öğrenebilirsiniz.
 
 :::tip İPUCU
-Asena'nın varsayılan komut öneki `!a`'dır.
+Asena, slash komutlar ile kullanılmaktadır bu yüzden komut önadı (prefix)`/`'dır.
 :::
 
 ## Asena komutlarıma yanıt vermiyor! {#asena-isnt-responding-to-my-commands}
@@ -31,7 +31,7 @@ Asena'nın varsayılan komut öneki `!a`'dır.
   
   ![asena-prefix](../../../static/img/docs/basic-troubleshooting/prefix.png)
 
-* Komut önekinizi nasıl değiştireceğinizi öğrenmek için [buraya tıklayabilirsiniz](/docs/commands/setprefix).
+  
 
 3. **Asena'nın kanalda mesaj okuma ve gönderme izinlerine sahip olduğundan emin olun.**
 

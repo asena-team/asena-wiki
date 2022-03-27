@@ -14,17 +14,9 @@ bağlantıyı takip ederek projeye katkıda bulunabilirsiniz.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- lang
-- language
-- dil
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!alocale [list | set | reset] <args>`
+`/locale [list | set | reset] <args>`
 
 - **Parametre 1:** Alt komutun adı. *[Zorunlu]*
 - **args:** Alt komut eğer parametre alıyorsa, alacağı parametreler. *[İsteğe Bağlı]*
@@ -41,7 +33,7 @@ Bot içerisinde kullanabileceğiniz iletişim dillerini ve kodlarını listeler.
 
 Botun sunucu içerisindeki varsayılan iletişim dilini değiştirir.
 
-**Örnek:** `!alocale set en`
+**Örnek:** `/locale set en`
 
 ### reset
 

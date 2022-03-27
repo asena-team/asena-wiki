@@ -8,22 +8,13 @@ Sunucu içerisinde iki seçenekli *(evet/hayır)* oylama anketi oluşturur.
 
 ---
 
-## 🏷️ Takma Adları {#alias}
-
-- anket
-- anketoluştur
-- startvote
-- voting
-- vote
-
----
-
 ## ❓ Kullanımı {#usage}
 
-`!asurvey <süre> [oylama metni]`
+`/survey [oylama metni] / İsteğe Bağlı <süre> `
 
+- **oylama metni:** Anketin metni. Aynı zamanda başlık olarak kullanılacaktır. *[Zorunlu]
 - **süre:** Anketin süresi. *[İsteğe Bağlı]*
-- **oylama metni:** Anketin metni. Aynı zamanda başlık olarak kullanılacaktır. *[Zorunlu]*
+
 
 Eğer süre parametresi girilmez ise anket süresi sonsuz olur.
 
