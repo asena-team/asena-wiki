@@ -10,9 +10,9 @@ Yeni bir çekiliş oluşturur.
 
 ## ❓ Kullanımı {#usage}
 
-`/create [kazanan sayısı] [süre] [ödül] / İsteğe Bağlı [color] [servers] [reward-roles] [allowed-roles]`
+`/create winners:kazanan-sayısı time:süre prize:ödül reward-roles:ödül olarak verilecek roller allowed-roles:çekilişe katılabilecek roller servers:çekilişe katılabilmesi için kullanıcının bulunması gereken sunucular`
 
-## ✨ Parametreler ve Anlamları {#parameters-and-meanings}
+### ✨ Parametreler ve Anlamları {#parameters-and-meanings}
 
 | Parametre     | Açıklama                                                                      | Zorunlu | Premium |
 |---------------|-------------------------------------------------------------------------------|---------|---------|
@@ -39,3 +39,13 @@ Yeni bir çekiliş oluşturur.
 * Eğer çekilişi oluşturduğunuz/oluşturmaya çalıştığınız kanal Discord'un _'Duyuru'_ tipindeki kanal ise çekiliş oluşmaz,
   daha önceden oluşturulup sonradan kanal tipi _'Duyuru'_ olarak değiştirilmişse çekiliş açıklanmaz. 
   [Daha fazla bilgi için buraya göz atabilirsiniz.](/docs/general/faq#can-asena-giveaway-announcement-channel)
+
+### ✏️ Örnek {#examples}
+
+```markdown
+/create winners: 1 time: 1h5m prize: Premium
+/create winners: 2 time: 1m prize: Discord Nitro
+/create winners: 3 time: 1m prize: Hello World color: GREEN
+/create winners: 4 time: 1h prize: Hello World servers: https://discord.gg/invite
+/create winners: 5 time: 5m prize: Hello World reward-roles: @Role,RoleID allowed-roles: @Role,RoleID
+```
