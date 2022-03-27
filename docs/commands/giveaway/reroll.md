@@ -18,7 +18,7 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
 - **message:** Tekrar çekilmek istenilen çekilişi belirlemek için kullanılır. Birden fazla çekilişiniz varsa ve mesaj-id 
   girmemişseniz en son oluşturduğunuz çekilişi tekrar çeker. *[İsteğe Bağlı]*
 
-::tip IPUCU
+:::note İPUCU
 **Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
 noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden
 kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele

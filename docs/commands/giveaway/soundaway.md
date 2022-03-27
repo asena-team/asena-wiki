@@ -19,7 +19,7 @@ Ses kanalında veya kanallarında bulunan kullanıcılar için yeni bir çekili�
   * **boş:** Eğer bu kısmı boş burakırsanız çekilişi sunucunuzdaki tüm sesli kanallardan çeker *[İsteğe Bağlı]*
 - **title:** Çekilişde verilecek ödül. *[İsteğe Bağlı]*
 
-:::tip İPUCU
+:::note İPUCU
 **Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
 noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden
 kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele

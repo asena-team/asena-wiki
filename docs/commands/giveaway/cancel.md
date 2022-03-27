@@ -15,7 +15,7 @@ Devam eden bir çekilişi iptal eder.
 - **mesaj-id:** Oluşturulan herhangi bir çekilişi iptal etmek için kullanılır. Birden fazla çekilişiniz varsa ve 
   mesaj-id girmemişseniz en son oluşturduğunuz çekilişi iptal eder. *[İsteğe Bağlı]*
 
-:::tip İPUCU
+:::note İPUCU
 **Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
 noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden
 kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele
