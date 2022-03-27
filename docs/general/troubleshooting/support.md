@@ -18,4 +18,4 @@ bilgiler doğrultusunda gerektli görülürse konu ile ilgili size geri dönül�
 
 ### İş Teklifleri ve Soruları İçin {#business}
 
-Bize [`misirlioglianil@gmail.com`](mailto:misirlioglianil@gmail.com) adresinden veya destek sunucumuz üzerinden ulaşmayı deneyin.
+Bize [`admin@asena.xyz`](mailto:admin@asena.xyz) adresinden veya destek sunucumuz üzerinden ulaşmayı deneyin.
