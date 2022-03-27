@@ -12,16 +12,19 @@ Yeni bir çekiliş oluşturur.
 
 `/create [kazanan sayısı] [süre] [ödül] / İsteğe Bağlı [color] [servers] [reward-roles] [allowed-roles]`
 
-- **kazanan sayısı:** Çekilişi kazanacak kişi sayısı. *[Zorunlu]*
-- **süre:** Çekilişin süresi. *[Zorunlu]*
-- **ödül:** Çekilişde verilecek ödül. Bu parametre aynı zamanda başlık olarak kullanılır. *[Zorunlu]*
-- **color** Çekiliş mesajının embed rengi. *[İsteğe Bağlı]*
-- **servers** Çekilişe katılabilmek için içerisinde bulunulması gereken sunucular. *[İsteğe Bağlı]*
-- **reward-roles** Çekiliş sonunda ödül olarak verilecek roller. *[İsteğe Bağlı]*
-- **allowed-roles** Çekilişe katılabilemek için sahip olması gereken roller. *[İsteğe Bağlı]*
+| Parametre     | Açıklama                                                                      | Zorunlu | Premium |
+|---------------|-------------------------------------------------------------------------------|---------|---------|
+| winners       | Çekilişi kazanacak kişi sayısı.                                               | ✔       | ❌       |
+| time          | Çekilişin süresi.                                                             | ✔       | ❌       |
+| prize         | Çekilişte verilecek ödül. Bu parametre aynı zamanda başlık olarak kullanılır. | ✔       | ❌       |
+| color         | Çekiliş embed'inin rengi.                                                     | ❌       | ✔       |
+| servers       | Çekilişe katılabilmek için içerisinde bulunması gereken sunucular.            | ❌       | ✔       | 
+| allowed-roles | Çekilişe katılabilmek için sahip olması gereken roller.                       | ❌       | ✔       |
+| reward-roles  | Çekiliş sonucunda ödül olarak verilecek roller.                               | ❌       | ✔       |
 
 ### 💢 Bazı Önemli Hususlar {#importants}
-:::Çekiliş oluştururken unutmamanız gereken bazı sınırlamalar vardır. 
+
+Çekiliş oluştururken unutmamanız gereken bazı sınırlamalar vardır. 
 
 * Çekiliş süresi en az 1 dakika, en fazla 2 ay olabilir. **(Bu süreyi daha fazla uzatmak için çalışıyoruz.)**
 * Çekiliş kazanan sayısı en az 1 kişi, en fazla 20 kişi olabilir.
@@ -34,4 +37,3 @@ Yeni bir çekiliş oluşturur.
 * Eğer çekilişi oluşturduğunuz/oluşturmaya çalıştığınız kanal Discord'un _'Duyuru'_ tipindeki kanal ise çekiliş oluşmaz,
   daha önceden oluşturulup sonradan kanal tipi _'Duyuru'_ olarak değiştirilmişse çekiliş açıklanmaz. 
   [Daha fazla bilgi için buraya göz atabilirsiniz.](/docs/general/faq#can-asena-giveaway-announcement-channel)
-:::

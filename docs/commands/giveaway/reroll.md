@@ -19,7 +19,6 @@ Bitmiş bir çekilişin kazananlarını tekrar çeker.
   girmemişseniz en son oluşturduğunuz çekilişi tekrar çeker. *[İsteğe Bağlı]*
 
 ::tip IPUCU
-
 **Sesli Mesaj ID’sini Nerden Bulurum?** Kullanıcıların, bireysel mesajların ve tüm Discord sunucuların çeşitli
 noktalarda kullanılabilecek çok basamaklı ID numaraları var. Discord’u bu ID numaraların hiçbirini bilmeden
 kullanabilirsin ama ilerde bir ihtimal bunlardan birini öğrenmen gereken bir mesele

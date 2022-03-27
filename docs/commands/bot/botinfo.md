@@ -4,13 +4,12 @@ title: botinfo Komutu
 sidebar_label: botinfo
 slug: /botinfo
 ---
-`/botinfo` bot hakkında teknik bilgi verir. Bunlar ;
+`/botinfo`, bot hakkında teknik bilgi verir. Bunlar;
+
 - Çalışma süresi
 - Platform (OS)
 - Sürüm
-- Bellek 
+- Sahip olunan RAM/Kullanılan RAM
 - İşlemci
 - Thread
 - Veritabanı
-
----
