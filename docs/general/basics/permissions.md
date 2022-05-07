@@ -23,7 +23,6 @@ Asena'nın yerleşik izin sistemi aşağıdaki gruplara ayrılabilir:
 * Çekiliş, anket ve soru oluşturabilir.
 * Çekilişi erken bitirebilir, tekrar çekebilir yada iptal edebilir.
 * Botun aşağıda listelenen ayarlarlarını değiştirebilir.
-    * Komut öneki
     * Dil
     * Komutların yetki seviyeleri
 
