@@ -4,11 +4,11 @@ title: Destek
 sidebar_label: Destek
 slug: /support
 ---
-## Hiç Bir Şey İşe Yaramıyor! Yardım Edin! {#nothing-is-work-help}
+## Hiçbir Şey İşe Yaramıyor! Yardım Edin! {#nothing-is-work-help}
 
 ### Destek Sunucusu {#support-server}
 
-Destek Sunucumuza katılmak için lütfen [buraya](https://dc.asena.xyz) tıklayın. Destek ekibimiz, Asena bot konusunda size yardımcı olmak için
+Destek sunucumuza katılmak için lütfen [buraya](https://dc.asena.xyz) tıklayın. Destek ekibimiz, Asena bot konusunda size yardımcı olmak için
 7/24 hizmetinizdedir.
 
 ### Sorun veya Öneri Bildirin {#issue}
