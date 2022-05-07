@@ -13,22 +13,25 @@ slug: /faq
 
 Asena, tek bir hedefe odaklanmış bir Discord çekiliş botudur: Discord'da en iyi çekiliş ve anket deneyimini sunmak.
 
-### Asena'yı kendi sunucuma nasıl ekliye bilirim? {#how-can-i-add-asena-to-my-discord-server}
+### Asena'yı kendi sunucuma nasıl ekleyebilirim? {#how-can-i-add-asena-to-my-discord-server}
 
-Asena ekleme kılavuzumuza göz atmak için lütfen [burayı tıklayın](/docs/general/adding-asena).
+Asena ekleme kılavuzumuza göz atmak için lütfen [buraya tıklayın](/docs/general/adding-asena).
 
 ## Temel Bilgiler {#basic-information}
 
 ---
 
-### Sunucumdaki Asena'nın komut önadını unuttum! {#forgot-asena-command-prefix-on-the-server}
+### Sunucumdaki Asena'nın komut ön adını unuttum! {#forgot-asena-command-prefix-on-the-server}
 
-Asena'nın görebileceği herhangi bir sohbet kanalına `>>prefix` yazarak, Asena'nın sunucu içerisinde komut önadını
-öğrenebilirsin.
+Bot slash komutlarını kullanmaktadır, tek yapmanız gereken herhangi bir kanalda slash (/) yazmak ve komut menüsünden ilgili komutları seçerek botu çalıştırmak.
+
+### Slash komutları yok, göremiyorum!
+
+Sunucuda botun eğik çizgi (slash) komutları oluşturma izni olmayabilir. [Buraya](https://invite.asena.xyz) tıklayarak botu yeniden ekleyin.
 
 ### Asena'nın takma adını sunucumda nasıl değiştirebilirim? {#how-can-i-change-asena-nickname-in-my-server}
 
-1. Asena'nın adına sağ tıklayın ve Takma Adı Değiştir'e basın. Aşağıdaki gibi bir menü açılacaktır:
+1. Asena'nın adına sağ tıklayın ve Kullanıcı Adı Değiştir'e basın. Aşağıdaki gibi bir menü açılacaktır:
 
 ![nickname-change](../../static/img/docs/faq/nickname.png)
 
