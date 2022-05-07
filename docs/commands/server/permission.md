@@ -8,7 +8,7 @@ Botun sunucu içerisindeki komut izinlerini düzenler.
 
 :::important BİLGİLENDİRME 
 Kullanımı herkese açık olan komutları ve bu komutun kendisinin izinlerini güvenlik sebebiyle düzenleyemez ve değiştiremezsiniz.
-Geriye kalam tüm komutların izinlerini düzenleyip değiştirmekte özgürsünüz.
+Geriye kalan tüm komutların izinlerini düzenleyip değiştirmekte özgürsünüz.
 :::
 
 ---
