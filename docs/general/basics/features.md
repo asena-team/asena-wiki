@@ -47,7 +47,7 @@ Asena ile merak ettiğiniz sorular oluşturabilir ve dilediğiniz gibi şıklar 
 
 ## Özelleştirme {#customization}
 
-Asena'nın komut ön adını beğenmediniz mi? Ya da komutların herkes tarafından kullanılmasını mı istiyorsunuz? İşte tam size
-göre bir özellik. Keyfinize göre komut ön adınızı, komutların durumlarını ve botun dilini değiştirebilirsiniz.
+Komutların herkes tarafından kullanılmasını mı istiyorsunuz? İşte tam size
+göre bir özellik. Keyfinize göre komutların durumlarını ve botun dilini değiştirebilirsiniz.
 
 ![Customizations](../../../static/img/docs/features/customizations.png)
