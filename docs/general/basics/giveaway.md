@@ -16,7 +16,7 @@ makale tam size göre.
 
 ### Reaksiyon İle Güncellenme {#reaction-giveaway-time-update}
 
-Diyelimki bir çekiliş oluşturdunuz ve çekilişinize aynı 20 kişi aynı anda katılım sağladı. Bu durumda ilk basan kişi baz
+Diyelim ki bir çekiliş oluşturdunuz ve çekilişinize aynı 20 kişi aynı anda katılım sağladı. Bu durumda ilk basan kişi baz
 alınarak çekiliş süresi mesajda güncellenir. Daha sonraki güncelleme ise ilk basan kişiden 3 veya daha fazla saniye
 sonra basan kişi baz alınarak güncellenir. Yani güncellemeler arasında en az 3 saniyelik bir bekleme süresi vardır.
 Ayrıca çekilişte son 30 saniyeye girilmiş ise reaksiyon ile süre güncellenmesi devre dışı bırakılır ve bot kendisi
