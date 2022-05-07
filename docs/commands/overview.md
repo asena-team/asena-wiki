@@ -4,13 +4,9 @@ title: Genel Bakış
 sidebar_label: Genel Bakış
 slug: /
 ---
-## Komut Öneki {#prefix}
+## Komut Ön eki {#prefix}
 
-Asena 'nın varsayılan komut öneki *(prefix)* `/` 'dır. 
-
-:::tip İPUCU
-Eğer komut önekinizi unuttuysanız botun görebileceği herhangi bir kanala `>>prefix` yazarak, komut önekinizi öğrenebilirsiniz.
-:::
+Asena eğik çizgi (slash) komutlarını kullanmaktadır. Bu nedenle komut ön eki (/)'dır ve değiştirilemez. 
 
 ---
 
@@ -24,9 +20,6 @@ Eğer komut önekinizi unuttuysanız botun görebileceği herhangi bir kanala `>
 
 `|`: Parametre belirteçlerinin içindeki dik çizgiler '**veya**' anlamına gelir. Yani içerisinde yazan veri tiplerden herhangi birini girebileceğiniz anlamına gelir.
 
-:::caution UYARI
-Soru sorma komutu dışında herhangi bir komutu kullanırken mesajlarınıza **asla** `([], <>)` gibi parametre belirteçleri **eklemeyin**.
-:::
 
 ### Örnek Çözümleme: {#resolve}
 
