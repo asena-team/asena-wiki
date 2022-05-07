@@ -31,7 +31,7 @@ slug: /giveaway-troubleshooting
 
 4. **Çekilişin kazananlarını tekrar çekmeyi deneyin.**
 
-* `!areroll` komutumuzu kullanarak kazananları tekrar çekmeyi deneyin. Bu komutu nasıl kullanacağınızı bilmiyorsanız
+* `/reroll` komutumuzu kullanarak kazananları tekrar çekmeyi deneyin. Bu komutu nasıl kullanacağınızı bilmiyorsanız
   [buraya tıklayarak](/docs/commands/reroll) öğrenebilirsiniz.
 
   Eğer bunu yaptığınızda çekilişiniz halen bitmediyse, sıradaki adımı takip edin.
